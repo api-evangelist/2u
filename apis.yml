@@ -13,6 +13,17 @@ description: >-
   API on its corporate domain (2u.com); its programmatic and integration
   surfaces live under the edX / Open edX learning platform, and its engineering
   work is visible in the 2uinc GitHub organization.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
